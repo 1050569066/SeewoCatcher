@@ -1,4 +1,4 @@
-Made by TraFamTo(1050569066)
+Made by TraFamTo
 
 This program realises remote controlling.
 
